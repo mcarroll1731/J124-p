@@ -30,3 +30,5 @@ _Lets **combine** bold and italics_
 *How to upload an image*
 1. Upload an image to GitHub (Upload a new file)
 2. Reference the file in your markdown
+
+![Flowers
