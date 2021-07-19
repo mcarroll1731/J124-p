@@ -38,5 +38,15 @@ Format: ![Alt text](url)
 
 !['Peony in vase', 'Peony bouquet'](https://h2.commercev3.net/cdn.brecks.com/images/800/62910A.jpg)
 
+*This is a link*
+
+[Google Peony Image](https://h2.commercev3.net/cdn.brecks.com/images/800/62910A.jpg)
+
+*This is a blockquote*
+In the wise words of Blackstreet:
+> How to get down <br>
+> Good Lord
+
+
 
 
