@@ -31,8 +31,12 @@ _Lets **combine** bold and italics_
 1. Upload an image to GitHub (Upload a new file)
 2. Reference the file in your markdown
 
-![Name of image][File Path to picture]
+!['Name of image', 'Alt text'](\File Path to picture or an image url)
 Format: ![Alt text](url)
 
-![Peony][peony.jpg]
-Format: ![Peony Flower](https://www.self.com/gallery/best-flower-delivery-services)
+!['Peony', 'Peony flower bloom'](peony.jpg)
+
+!['Peony in vase', 'Peony bouquet'](https://h2.commercev3.net/cdn.brecks.com/images/800/62910A.jpg)
+
+
+
